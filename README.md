@@ -31,7 +31,7 @@ It allows users to manage contact details like name, address, and other basic in
 ---
 
 ## Project Structure
-
+```
 
 com.bridgelabz.addressbook
 │
@@ -41,6 +41,7 @@ com.bridgelabz.addressbook
 ├── dto → Data Transfer Object
 └── resources → application.properties
 
+```
 
 ---
 
